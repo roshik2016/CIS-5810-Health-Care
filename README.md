@@ -1,1 +1,2 @@
-# CIS-5810-Health-Care
+# hollywood-dashboard
+Dashboard of visitors to the hollywood sign. 

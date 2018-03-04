@@ -1,0 +1,9 @@
+dash
+dash-auth
+dash-core-components
+dash-html-components
+dash-renderer
+plotly
+xlrd
+pandas
+gunicorn
